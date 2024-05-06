@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">EMICalculator</string>
+
+    <string name="input_principle_amount">Principle Amount</string>
+    <string name="input_tenure">Tenure</string>
+    <string name="input_interest">Interest</string>
+</resources>
