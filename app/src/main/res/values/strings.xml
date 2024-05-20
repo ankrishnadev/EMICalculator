@@ -4,4 +4,5 @@
     <string name="input_principle_amount">Principle Amount</string>
     <string name="input_tenure">Tenure</string>
     <string name="input_interest">Interest</string>
+    <string name="calculate_button_txt">Calculate</string>
 </resources>
